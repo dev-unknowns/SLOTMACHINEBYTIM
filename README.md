@@ -1,0 +1,2 @@
+# SLOTMACHINEBYTIM
+Beginner PYTHON project
